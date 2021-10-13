@@ -1,0 +1,21 @@
+body{
+    width: 300px;
+    height: 300px;
+    display: flex;
+    vertical-align: center;
+    background-color: rgb(232, 232, 255);
+}
+
+.container{
+    margin: auto;
+    width: 280px;
+    text-align: center;
+    font-size: 1.2rem;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+#jokeElement{
+    font-weight: 800;
+    color:  violet;
+}
